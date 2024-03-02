@@ -1,31 +1,46 @@
 ## Historia y Evolución de los lenguajes automatas
 ## Quintos Cabeza Diego 21200625
-    <h1>Cuadro Comparativo - Historia y Evolución de la Teoría de Lenguajes Automátas</h1>
+<table style="width: 100%;">
+    <tr>
+            <th> Año de Aportacion<th>
+            <th> Investigador <th>
+            <th> Aportación <th>
+    <tr>
+    <tr>
+            <th> 1930s-1940s<th>
+            <th> Alonzo Church	 <th>
+            <th> Desarrolló el cálculo lambda, un sistema formal para la representación de funciones matemáticas. Junto con Turing, demostró la equivalencia entre las Máquinas de Turing y el cálculo lambda,                           estableciendo otro modelo teórico de computación.<th>
+    <tr>
+    <tr>
+        <th> 1936<th>
+        <th>Alan Turing<th>
+        <th> Desarrolló la Máquina de Turing, un modelo abstracto que fundamenta la teoría de la computación. Este modelo establece las bases teóricas de la computabilidad y demostró la existencia de problemas no                 resolubles algorítmicamente (el Problema de la Parada).<th>
+    <tr>
+    <tr>
+        <th> 1930s-1940s<th>
+        <th>Stephen Cole Kleene<th>
+        <th>Desarrolló la noción de funciones recursivas y estableció la equivalencia entre las Máquinas de Turing y las funciones recursivas, consolidando la idea de la computabilidad. Contribuyó al desarrollo                 de la teoría de lenguajes formales y autómatas.<th>
+    <tr>
+    <tr>
+        <th> 1940s<th>
+        <th>John von Neumann<th>
+        <th> Colaboró en la formulación de la arquitectura de computadoras y contribuyó a la idea de almacenar programas y datos en la misma memoria, sentando las bases para la arquitectura de Von Neumann. Su                     trabajo influyó en la implementación práctica de los conceptos teóricos de la teoría de autómatas.<th>
+    <tr>
+    <tr>
+        <th>1956 <th>
+        <th>Noam Chomsky<th>
+        <th> Propuso la Jerarquía de Chomsky, clasificando los lenguajes formales en cuatro tipos: Tipo 3 (Regulares), Tipo 2 (Libres de Contexto), Tipo 1 (Sensibles al Contexto) y Tipo 0 (Recursivamente                         Enumerables). Introdujo las Gramáticas Formales y contribuyó al entendimiento de la estructura de los lenguajes.<th>
+    <tr>
+    <tr>
+        <th> 1950s <th>
+        <th>Michael Rabin y Dana Scott<th>
+        <th> Introdujeron la teoría de autómatas no deterministas, con la definición de los autómatas finitos no deterministas (AFND) y los autómatas de pila no deterministas (APND). Este concepto extendió la                     comprensión de la computación y la aceptación de lenguajes formales..<th>
+    <tr>
+<table>
+Conclusión
+La teoría de autómatas, con sus modelos abstractos y jerarquías formales, ha sentado las bases teóricas para la computabilidad, proporcionando los cimientos conceptuales esenciales para la construcción de lenguajes de programación y el diseño de algoritmos.
 
-    <table>
-        <tr>
-            <th>Aspecto</th>
-            <th>Teoría de Lenguajes Autómatas</th>
-            <th>HTML</th>
-        </tr>
-        <tr>
-            <td>Origen y Desarrollo</td>
-            <td>Surgió en la década de 1940 con la propuesta de máquinas abstractas para describir gramáticas formales. Pioneros como Noam Chomsky y Alan Turing contribuyeron a su desarrollo, estableciendo modelos como máquinas de estado finito y gramáticas formales.</td>
-            <td>Propuesto por Tim Berners-Lee en 1991 como un lenguaje de marcado para la World Wide Web. Ha evolucionado para adaptarse a las necesidades cambiantes de la web, con diferentes versiones como HTML4, XHTML y HTML5.</td>
-        </tr>
-        <tr>
-            <td>Objetivo Principal</td>
-            <td>Busca entender y describir la estructura y el comportamiento de los lenguajes formales utilizados en la programación y la representación de datos. Se centra en clasificar lenguajes en términos de complejidad y capacidad expresiva.</td>
-            <td>Diseñado para estructurar el contenido de manera semántica en la web. Su objetivo principal es proporcionar una interfaz para la presentación y acceso a la información en línea mediante el uso de etiquetas de marcado.</td>
-        </tr>
-        <tr>
-            <td>Modelos Representativos</td>
-            <td>Incluye modelos como Gramáticas Formales, Máquinas de Estado Finito, Máquinas de Pila y Máquinas Turing. Estos...</td>
-            <td>Utiliza un modelo de marcado que se basa en etiquetas para definir la estructura y presentación de los elementos en una página web. Aunque no se ajusta directamente a los modelos clásicos de lenguajes autómatas, comparte el concepto de definir una estructura jerárquica mediante etiquetas.</td>
-        </tr>
-        <tr>
-            <td>Evolución Tecnológica</td>
-            <td>La teoría de lenguajes autómatas ha influido en el diseño de compiladores, analizadores léxicos y sintácticos, y en la comprensión teórica de la computabilidad y la complejidad. Ha evolucionado para abordar problemas más complejos y adaptarse a las demandas de la informática moderna.</td>
-            <td>HTML ha evolucionado para incluir nuevas características, elementos y atributos con cada versión. HTML5, por ejemplo, introdujo mejoras significativas en multimedia, gráficos, y capacidades de interactividad, manteniendo la compatibilidad con las versiones anteriores.</td>
-        </tr>
-    </table>
+Referencias
+Prezi, A. C. S. O. (s. f.). HISTORIA y EVOLUCIÓN DE LA TEORÍA DE AUTÓMATAS y LENGUAJES f. prezi.com. https://prezi.com/3bgywspgxblf/historia-y-evolucion-de-la-teoria-de-automatas-y-lenguajes-f/
+Wikipedia. (2024, 1 de febrero). Lenguaje formal . Wikipedia, La Enciclopedia Libre. https://es.wikipedia.org/wiki/Lenguaje_formal
+
